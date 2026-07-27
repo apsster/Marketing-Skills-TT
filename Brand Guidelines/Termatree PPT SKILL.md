@@ -9,9 +9,9 @@ This skill ensures all generated documents adhere to corporate brand standards f
 
 ## Brand Identity
 
-### Company: Acme Corporation
+### Company: Termatree
 **Tagline**: "Innovation Through Excellence"
-**Industry**: Technology Solutions
+**Industry**: Handicrafts and religious art
 
 ## Visual Standards
 
