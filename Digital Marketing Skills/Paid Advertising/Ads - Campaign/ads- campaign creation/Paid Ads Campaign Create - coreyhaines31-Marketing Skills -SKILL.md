@@ -462,8 +462,9 @@ When the user requests Google Ads RSAs, load [references/rsa-output-spec.md](ref
 ---
 
 ## Tool Integrations
+For pulling performance data and managing campaigns, see the [tools registry](../../../REGISTRY-coreyhaines-marketingskills.md).
 
-For implementation, see the [tools registry](../../Digital Marketing Skills/Tools- Corey Haines - Marketing Skills/REGISTRY- coreyhaines -marketingskills.md). Key advertising platforms:
+Key advertising platforms:
 
 | Platform | Best For | MCP | Guide |
 |----------|----------|:---:|-------|
