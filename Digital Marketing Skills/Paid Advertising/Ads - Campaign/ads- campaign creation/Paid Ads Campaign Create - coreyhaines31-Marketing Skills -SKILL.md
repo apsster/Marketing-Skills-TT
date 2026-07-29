@@ -469,12 +469,12 @@ Key advertising platforms:
 
 | Platform | Best For | MCP | Guide |
 |----------|----------|:---:|-------|
-| **Google Ads** | Search intent, high-intent traffic | ✓ | [google-ads.md](../../tools/integrations/google-ads.md) |
-| **Meta Ads** | Demand gen, visual products, B2C | - | [meta-ads.md](../../tools/integrations/meta-ads.md) |
-| **LinkedIn Ads** | B2B, job title targeting | - | [linkedin-ads.md](../../tools/integrations/linkedin-ads.md) |
-| **TikTok Ads** | Younger demographics, video | - | [tiktok-ads.md](../../tools/integrations/tiktok-ads.md) |
+| **Google Ads** | Search intent, high-intent traffic | ✓ | [google-ads.md](../../../Tools-%20Corey%20Haines%20-%20Marketing%20Skills/integrations/google-ads.md) |
+| **Meta Ads** | Demand gen, visual products, B2C | - | [meta-ads.md](../../../Tools-%20Corey%20Haines%20-%20Marketing%20Skills/integrations/meta-ads.md) |
+| **LinkedIn Ads** | B2B, job title targeting | - | [linkedin-ads.md](../../../Tools-%20Corey%20Haines%20-%20Marketing%20Skills/integrations/linkedin-ads.md) |
+| **TikTok Ads** | Younger demographics, video | - | [tiktok-ads.md](../../../Tools-%20Corey%20Haines%20-%20Marketing%20Skills/integrations/tiktok-ads.md) |
 
-For tracking setup, see [references/conversion-tracking.md](references/conversion-tracking.md), [ga4.md](../../tools/integrations/ga4.md), [segment.md](../../tools/integrations/segment.md)
+For tracking setup, see [references/conversion-tracking.md](references/conversion-tracking.md), [ga4.md](../../../Tools-%20Corey%20Haines%20-%20Marketing%20Skills/integrations/ga4.md), [segment.md](../../../Tools-%20Corey%20Haines%20-%20Marketing%20Skills/integrations/segment.md)
 
 ---
 
